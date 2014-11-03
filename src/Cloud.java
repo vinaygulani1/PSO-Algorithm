@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-// there are changes
+// these are changes
 public  class Cloud {
 	
 	int totalStorage;
