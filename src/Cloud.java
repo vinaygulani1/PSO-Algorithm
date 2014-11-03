@@ -7,7 +7,7 @@ public  class Cloud {
 	int totalRam;
 	int avalilableStorage;
 	int availableRam;
-	
+	//new change to this branch
 	Cloud(int storage, int ram){
 		setTotalStorage(storage);
 		setTotalRam(ram);
